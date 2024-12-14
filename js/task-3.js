@@ -1,4 +1,4 @@
-console.log("%cTask 1", "color: #12ff00; font-weight: bold;");
+console.log("%cTask 3", "color: #12ff00; font-weight: bold;");
 
 function checkForSpam(message) {  
     const lowerCaseMessage = message.toLowerCase();   
